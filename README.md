@@ -29,6 +29,22 @@ The main goal of this assignment is to:
 | 11. | [mission-08-final-report/README.md](mission-08-final-report/README.md) | Final review and submission checklist. |
 | 12. | [evidence/](evidence/) | Privacy-safe screenshots or selected output, grouped by mission if needed. |
 
-##
+## My Learning
+
+Throughout this digital investigation, key concepts learned include:
+- **IPOS Model**: Understanding how computer systems receive inputs, process data using CPU and memory, produce outputs on displays, and retain information in secondary storage.
+- **Terminal & File Management**: Gaining confidence with command-line tools (`pwd`, `ls`, `mkdir`, `cp`, `mv`, `cat`), using pipes (`|`) and redirection (`>>`), and inspecting Unix file permissions.
+- **Operating System Foundations**: Understanding process lifecycles, PIDs, storage inspection (`df -h`), and core kernel responsibilities.
+- **Data Representation**: Learning manual number conversions between decimal, binary, and hexadecimal, verified by writing an interactive Python script (`number_converter.py`).
+
+## Instructions for Running the Number Converter
+
+To run the interactive number converter created in Mission 5:
+```bash
+python3 mission-05-numbers-data/number_converter.py
+```
+Enter any positive decimal integer when prompted to see its binary and hexadecimal representations.
+
+## Note on Submissions
 
 Each mission is completed in sequence and committed separately to the repository. The final report is a summary of all missions and their completion status.
