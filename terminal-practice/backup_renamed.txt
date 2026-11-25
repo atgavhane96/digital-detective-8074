@@ -1,0 +1,2 @@
+First line: Digital Detective learning.
+Second line: Appending text using shell redirection.
